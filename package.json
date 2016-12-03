@@ -1,0 +1,24 @@
+{
+  "name": "@eatrocks/whitelister",
+  "version": "1.0.0",
+  "description": "Creates a webpack loader exclude regex from your package.json dependencies, recursively.  ",
+  "main": "whitelister.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatrocks/whitelister.git"
+  },
+  "keywords": [
+    "webpack",
+    "exclude",
+    "whitelist"
+  ],
+  "author": "Bruce Campbell <eatrocks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eatrocks/whitelister/issues"
+  },
+  "homepage": "https://github.com/eatrocks/whitelister#readme"
+}
